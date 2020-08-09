@@ -1,5 +1,5 @@
 {
-  "name": "@lucascco/react-next-boilerplate",
+  "name": "@lucascco/nextjs-boilerplate",
   "description": "Boilerlate using Typescript, React, NextJS e Styled Components!",
   "version": "0.1.0",
   "private": true,
